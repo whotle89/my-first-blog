@@ -1,0 +1,1 @@
+open(".gitignore","w")
